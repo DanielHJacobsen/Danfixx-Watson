@@ -1,8 +1,6 @@
 # Danfixx-Watson
 
-Inspired by this: https://github.com/VidyasagarMSC/WatBot.
-An Android application was developed as a proof of concept during the Semester Project: Danfixx
-of the 3rd semester in ICTE at Aalborg University Copenhagen, 2016.
-
-A Bot was created incorporating Watson Cognitive Services, Conversation API and Text-to-Speech API.
-Android specific Speech-to-Text, Google Maps and Geofence functionalities were also included.
+A smartphone application developed as part of a master thesis project by Pernille Bjørnskov (AAU CPH) and Daniel H. Jacobsen (AAU CPH).
+This project has been done in collaboration with Danfoss. 
+The application is developed as an intelligent personal assistant (IPA) for the Danfoss One smart home heating system. 
+Details of the how to interact with the Danfoss One system has not been included in this application, since it is confidential.
