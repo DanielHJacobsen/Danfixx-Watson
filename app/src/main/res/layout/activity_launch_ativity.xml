@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="portrait"
+    tools:context="com.example.vmac.watbot.LaunchAtivity">
+
+    <Button
+        android:id="@+id/henrikButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:gravity="center"
+        android:text="Henrik"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="0dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView"
+        android:background="@drawable/my_button_bg"
+        android:layout_marginRight="70dp"
+        android:layout_marginLeft="70dp"/>
+
+    <Button
+        android:id="@+id/elsebethButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Elsebeth"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="0dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView"
+        android:layout_marginBottom="160dp"
+        android:background="@drawable/my_button_bg"
+        android:layout_marginRight="70dp"
+        android:layout_marginLeft="70dp"/>
+
+    <Button
+        android:id="@+id/davidButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:gravity="center"
+        android:text="David"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView"
+        tools:layout_editor_absoluteX="148dp"
+        android:background="@drawable/my_button_bg"
+        android:layout_marginRight="70dp"
+        android:layout_marginLeft="70dp"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        app:srcCompat="@drawable/launch_logo"
+        tools:layout_editor_absoluteX="-146dp"
+        tools:layout_editor_absoluteY="-58dp" />
+
+</android.support.constraint.ConstraintLayout>

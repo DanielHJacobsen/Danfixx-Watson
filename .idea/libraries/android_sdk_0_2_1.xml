@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-sdk-0.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/2507f45837b25ebe93899d4d72766d75ed04f222/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/2507f45837b25ebe93899d4d72766d75ed04f222/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/android-sdk/0.2.1/46b8193883dedf1897d3c26874ba75693b682e0e/android-sdk-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
